@@ -16,7 +16,7 @@ The sensor data is displayed in the Serial Monitor.
 |------|------|
 | VCC | 3.3V |
 | GND | GND |
-| DATA | GPIO4 |
+| DATA | GPIO21 |
 
 ## Output
 The ESP32 reads the temperature and humidity values and prints them in the Serial Monitor.
